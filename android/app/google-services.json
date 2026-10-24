@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137362007359",
+    "project_id": "makepizza-u",
+    "storage_bucket": "makepizza-u.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137362007359:android:11f7aed18a32dd9efe9f8a",
+        "android_client_info": {
+          "package_name": "com.geancarlo.makepizza_u"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOEBc5HTYJe0ctPLbIBerIJgZGgDp0rY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
